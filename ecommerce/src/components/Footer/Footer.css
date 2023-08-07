@@ -1,0 +1,10 @@
+.footer{
+    background-color: rgb(109, 109, 109);
+    height: 7vh;
+    display: flex;
+    align-items: center;   
+}
+
+.footer-h1{
+    color: #fff;
+}

@@ -1,0 +1,10 @@
+.header{
+    background-color: rgb(109, 109, 109);
+    height: 7vh;
+    display: flex;
+    align-items: center;   
+}
+
+.header-h1{
+    color: #fff;
+}
